@@ -1,4 +1,4 @@
 # PythonWinter2015-initial
-Initial repo
+Initial repo.
 
 Good luck!
